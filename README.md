@@ -9,4 +9,4 @@ I'm **Jonas Lucas** and I'm passionate about *studying programming*.
 
 ---
 
-<a href="https://www.linkedin.com/in/jonas-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonas-lucas/)
