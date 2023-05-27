@@ -11,3 +11,4 @@ I'm **Jonas Lucas** and I'm passionate about *studying programming*.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonas-lucas/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&labelColor=2EC866)](https://www.hackerrank.com/jonaslucasduarte)
+[![Credly Badge](https://img.shields.io/badge/Credly-Badges-7E3BF2?style=flat&logo=credly&labelColor=7E3BF2)](https://www.credly.com/users/jonas-lucas-duarte-lima/badges)
